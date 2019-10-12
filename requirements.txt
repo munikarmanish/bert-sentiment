@@ -3,3 +3,4 @@ pytorch-transformers
 pytreebank
 loguru
 tqdm
+click
