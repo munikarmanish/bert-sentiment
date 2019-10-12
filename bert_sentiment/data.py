@@ -100,4 +100,3 @@ class SSTDataset(Dataset):
         X, y = self.data[index]
         X = torch.tensor(X)
         return X, y
-
